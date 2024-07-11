@@ -37,7 +37,11 @@ To run the app, you need to have the following libraries installed:
 - wordcloud
 - nltk
 - matplotlib
-You can install all the required libraries by running pip install -r requirements.txt.
+  
+You can install all the required libraries by running 
+```
+pip install -r requirements.txt.
+```
 
 **Features**
 
