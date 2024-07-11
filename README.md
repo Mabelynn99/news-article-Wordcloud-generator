@@ -1,9 +1,11 @@
 # News Article Wordcloud Generator
 
 **Project Description**
+
 This web-based application scrapes news articles and uses natural language processing to generate a word cloud of the most frequent words.
 
 **Getting Started**
+
 To get started, follow these steps:
 
 1. Create a new Conda environment and activate it:
